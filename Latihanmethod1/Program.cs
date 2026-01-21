@@ -20,3 +20,8 @@ void Bagi()
     c = a / b;
     Console.WriteLine($"{a} / {b} = {c}");
 }
+
+Tambah();
+Kurang();
+Kali();
+Bagi();
